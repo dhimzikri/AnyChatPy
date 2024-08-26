@@ -15,3 +15,4 @@ torchaudio==2.3.0
 unstructured
 qdrant-client
 openpyxl
+ollama
