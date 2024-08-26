@@ -9,3 +9,4 @@ streamlit
 toml
 yt_dlp
 transformers
+torch
