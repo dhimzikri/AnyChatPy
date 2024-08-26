@@ -8,3 +8,4 @@ Requests
 streamlit
 toml
 yt_dlp
+transformers
