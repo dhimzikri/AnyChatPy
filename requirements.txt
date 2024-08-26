@@ -9,3 +9,6 @@ streamlit==1.37.1
 toml==0.10.2
 yt_dlp==2024.8.6
 transformers
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
