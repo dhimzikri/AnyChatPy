@@ -1,3 +1,4 @@
+yt_dlp
 aiohttp
 aiosignal
 async-timeout
